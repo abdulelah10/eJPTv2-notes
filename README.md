@@ -96,4 +96,3 @@ dirb <url>
 /usr/share/wordlist/dirb/
 ```
 
-...
