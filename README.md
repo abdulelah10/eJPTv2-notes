@@ -1,6 +1,6 @@
 # 💥 eJPTv2 Command Notes 🖥️
 
-Welcome to the eJPTv2 command notes repository! This collection of essential commands was instrumental in helping me successfully pass the eLearnSecurity Junior Penetration Tester (eJPTv2) exam. Explore the comprehensive references for network scanning, password cracking, web application testing, privilege escalation, and more. These notes will equip you with the knowledge and skills necessary to conquer the exam and excel in the field of penetration testing. Level up your abilities and join me in this exciting journey! 💪🚀
+This collection of essential commands was instrumental in helping me successfully pass the eLearnSecurity Junior Penetration Tester (eJPTv2) exam. Explore the comprehensive references for network scanning, password cracking, web application testing, privilege escalation, and more. 💪🚀
 
 ## 🔍 Network Scanning and Enumeration
 
